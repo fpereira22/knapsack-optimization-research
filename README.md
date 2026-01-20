@@ -76,5 +76,5 @@ Si este entorno experimental o los datos de réplica te han sido útiles en tu i
   type         = {Tesis de Grado},
   doi          = {10.60483/UNAB/VTK92P},
   url          = {[https://github.com/fpereira22/Knapsack-Problem-Tesis](https://github.com/fpereira22/Knapsack-Problem-Tesis)},
-  note         = {Profesor Guía: Dr. Gustav Gatica}
+  note         = {Profesor Guía: Dr. Gustavo Gatica}
 }
