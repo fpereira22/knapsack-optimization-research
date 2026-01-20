@@ -56,18 +56,25 @@ Si utilizas este material, por favor cita el trabajo original utilizando el iden
 
 ### Requisitos Previos
 * **Julia 1.x**
-* **GCC/Clang** (para benchmarks en C)
 * **Python 3.8+** (Jupyter, Pandas, Matplotlib)
-* **AMPL** (opcional)
+* **AMPL** 
 
-@thesis{Pereira_Knapsack_Tesis_2026,
-  author = {Pereira, Felipe},
-  title = {Análisis de Técnicas de Resolución para el Knapsack Problem},
-  school = {Universidad Andrés Bello},
-  type = {Tesis de Grado},
-  year = {2026},
-  doi = {10.60483/UNAB/VTK92P},
-  url = {https://github.com/fpereira22/Knapsack-Problem-Tesis},
-  note = {Profesor Guía: Dr. Gustav Gatica}
+## 🎓 Cómo Citar este Trabajo
+
+Si este entorno experimental o los datos de réplica te han sido útiles en tu investigación, por favor utiliza la siguiente referencia académica. 
+
+### Referencia Estándar (APA)
+> **Pereira, F.** (2026). *Análisis de Técnicas de Resolución para el Knapsack Problem*. Tesis de Grado. Universidad Andrés Bello. DOI: [10.60483/UNAB/VTK92P](https://doi.org/10.60483/UNAB/VTK92P)
+
+### Formato BibTeX (para LaTeX/Mendeley/Zotero)
+```bibtex
+@thesis{Pereira2026_KnapsackTesis,
+  author       = {Felipe Pereira},
+  title        = {Análisis de Técnicas de Resolución para el Knapsack Problem},
+  school       = {Universidad Andrés Bello},
+  year         = {2026},
+  type         = {Tesis de Grado},
+  doi          = {10.60483/UNAB/VTK92P},
+  url          = {[https://github.com/fpereira22/Knapsack-Problem-Tesis](https://github.com/fpereira22/Knapsack-Problem-Tesis)},
+  note         = {Profesor Guía: Dr. Gustav Gatica}
 }
-
